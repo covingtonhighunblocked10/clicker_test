@@ -1,6 +1,6 @@
 body {
     size-adjust: 2vw;
-    transition:100ms;
+    transition: 100ms;
     font-size: 3vw;
     background-color: gray;
     user-select: none;
@@ -25,4 +25,7 @@ body {
 
 #click:hover {
     background-color: rgb(223, 0, 0)
+}
+.shape {
+    position: absolute;
 }
